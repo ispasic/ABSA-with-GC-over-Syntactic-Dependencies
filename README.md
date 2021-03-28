@@ -4,4 +4,4 @@ Aspect-based sentiment analysis with graph convolution over dependency parse tre
 
 ## References
 * reference 1
-* [Nesta CMS](http://effectif.com/nesta "Nesta is a superb CMS")
+* [Pennington J, Socher R, Manning CD. Glove: Global vectors for word representation. InProceedings of the 2014 conference on empirical methods in natural language processing (EMNLP) 2014 Oct (pp. 1532-1543).](https://www.aclweb.org/anthology/D14-1162/)
