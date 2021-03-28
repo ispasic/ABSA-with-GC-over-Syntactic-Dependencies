@@ -1,6 +1,8 @@
 # Aspect-based Sentiment Analysis with Graph Convolution over Syntactic Dependencies
 PyTorch implementation of aspect-based sentiment analysis with graph convolution over dependency parse trees of health and well-being related content.
 
+## Repository
+'data' folder contains  
 
 ## References
 * [Gräßer F, Kallumadi S, Malberg H, Zaunseder S. Aspect-based sentiment analysis of drug reviews applying cross-domain and cross-data learning. In Proceedings of the 2018 International Conference on Digital Health 2018 Apr 23 (pp. 121-125).](https://archive.ics.uci.edu/ml/datasets/Drug+Review+Dataset+%28Drugs.com%29)
