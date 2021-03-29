@@ -2,7 +2,8 @@
 PyTorch implementation of aspect-based sentiment analysis with graph convolution over dependency parse trees of health and well-being related content.
 
 ## Repository
-* `data` folder contains preprocessed training, validation and test dataset. 
+* `data` folder contains preprocessed training, validation and test dataset.
+*  `glove_dictionary.py` download GloVe model and execute this script in order to create a dictionary.
 * `model.py` contains the implementation of the model.
 * `main.py` is the script that contains training, validation and testing of the model.
 
